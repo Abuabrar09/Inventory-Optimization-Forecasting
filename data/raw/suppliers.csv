@@ -1,0 +1,7 @@
+supplier_id,supplier_name,promised_lead_time_days,lead_time_std_days
+SUP-01,Lone Star Foods,5,1.0
+SUP-02,Gulf Coast Beverages,4,0.8
+SUP-03,Prairie Pantry Co,9,2.0
+SUP-04,Harbor Household,12,3.5
+SUP-05,Sunvale Personal Care,10,2.5
+SUP-06,Overseas Imports Ltd,21,6.0
