@@ -1,0 +1,4 @@
+method,wape_pct,bias_pct
+Seasonal + growth,2.2,-0.2
+Naive (last week),13.2,12.2
+8-week moving average,17.2,17.2
